@@ -1,0 +1,50 @@
+{
+    "left": {
+        "mtx_new": {
+            "fx": -1,
+            "fy": -1,
+            "cx": -1,
+            "cy": -1
+        },
+        "cxcy_offset": {
+            "cx": -1,
+            "cy": 0
+        }
+    },
+    "right": {
+        "mtx_new": {
+            "fx": -1,
+            "fy": -1,
+            "cx": -1,
+            "cy": -1
+        },
+        "cxcy_offset": {
+            "cx": -1,
+            "cy": 0
+        }
+    },
+    "front": {
+        "mtx_new": {
+            "fx": -1,
+            "fy": -1,
+            "cx": -1,
+            "cy": -1
+        },
+        "cxcy_offset": {
+            "cx": -1,
+            "cy": 0
+        }
+    },
+    "rear": {
+        "mtx_new": {
+            "fx": -1,
+            "fy": -1,
+            "cx": -1,
+            "cy": -1
+        },
+        "cxcy_offset": {
+            "cx": -1,
+            "cy": 0
+        }
+    }
+}

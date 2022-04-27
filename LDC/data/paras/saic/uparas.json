@@ -1,0 +1,50 @@
+{
+    "left_front": {
+        "mtx_new": {
+            "fx": 805.54,
+            "fy": 805.54,
+            "cx": 960,
+            "cy": 640
+        },
+        "cxcy_offset": {
+            "cx": 190,
+            "cy": 0
+        }
+    },
+    "left_rear": {
+        "mtx_new": {
+            "fx": 805.54,
+            "fy": 805.54,
+            "cx": 960,
+            "cy": 640
+        },
+        "cxcy_offset": {
+            "cx": 230,
+            "cy": 0
+        }
+    },
+    "right_front": {
+        "mtx_new": {
+            "fx": 805.54,
+            "fy": 805.54,
+            "cx": 960,
+            "cy": 640
+        },
+        "cxcy_offset": {
+            "cx": -160,
+            "cy": 0
+        }
+    },
+    "right_rear": {
+        "mtx_new": {
+            "fx": 805.54,
+            "fy": 805.54,
+            "cx": 960,
+            "cy": 640
+        },
+        "cxcy_offset": {
+            "cx": -260,
+            "cy": 0
+        }
+    }
+}

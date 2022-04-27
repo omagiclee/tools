@@ -1,0 +1,24 @@
+fov120:
+    crop:
+        top: 90
+        bottom: 38
+        left: 0
+        right: 0
+    principal_point_offset:
+        cx: 0
+        cy: 200
+    imsize_tgt:
+        w: 640
+        h: 384
+fov30:
+    crop:
+        top: 90
+        bottom: 38
+        left: 0
+        right: 0
+    principal_point_offset:
+        cx: 0
+        cy: 0
+    imsize_tgt:
+        w: 640
+        h: 384
